@@ -1,4 +1,4 @@
-# Exam 01 - Java
+# Exam 01 Practice - Java
 
 ## Concepts
 
@@ -87,8 +87,10 @@ public class SimpleBits {
 Implement the function `interruptedPalindrome` to determine whether a string is an interrupted palindrome. It is given a string and returns a boolean indicating whether that string is an interrupted palindrome.
 
 ```
-Input: $a ba
-Output: True (aba)
+Input: "$a ba"
+Output: True
+
+"$a ba" -> "aba"
 ```
 
 ```java
